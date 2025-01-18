@@ -1,2 +1,2 @@
-Transport type : Train
+Transport type : Car
 places : Eaton mall
