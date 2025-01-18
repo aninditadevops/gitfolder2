@@ -1,2 +1,2 @@
-Transport type : Cycle
+Transport type : Flight
 places : Eaton mall
