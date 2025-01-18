@@ -1,2 +1,2 @@
-Transport type : Bus
+Transport type : Flight
 places : Eaton mall
