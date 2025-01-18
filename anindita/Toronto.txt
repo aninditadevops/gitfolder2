@@ -1,2 +1,2 @@
-Transport type : Car
+Transport type : Cycle
 places : Eaton mall
